@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">nava</string>
+    <string name="greetings">Welcome</string>
+    <string name="request">Please select who you are....</string>
+    <string-array name="who">
+        <item>Admin</item>
+        <item>staff</item>
+        <item>customer</item>
+        <item>visitor</item>
+    </string-array>
+    <string name="confirmation">OK</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_pass">Password</string>
+    <string name="action_sign_in">SIGNIN</string>
+    <string name="action_sign_in_short">Signin</string>
+    <string name="regis">SignUp</string>
+    <string name="signup">SignUP</string>
+    <string name="signupbtn">SignUp</string>
+    <string name="signup_btn">SignUp</string>
+    <string name="logout">Logout</string>
+    <string name="name">NAME</string>
+
+</resources>
